@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+.fullbody{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Appdiv{
+    width: 500px;
+    background-color: #61dafb;
+    height: 82vh;
+    margin: 0px auto;
+}
+.Appdiv h1{   
+    padding: 22px;
+    text-align: center;
+    color: white;
+    /* margin: 31px; */
+    background-color: #2eb2ce;
+}
+.inputdata{
+    width: 330px!important;
+    margin: 0 auto;
+}
+.locationname{
+    width: 330px!important;
+    margin: 20px auto;
+    text-align: center;
+    text-transform: capitalize;
+}
+.locationname h2{
+    font-family: 'Jost', sans-serif;
+}
